@@ -21,6 +21,4 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           port: 22
           script: |
-            cd /home/igor/gobackend/PrograMentor && git pull origin main
-            /snap/bin/docker compose down
-            /snap/bin/docker compose up -d --build
+            cd /home/egor/cicd_test/CICDtest && git pull origin main
