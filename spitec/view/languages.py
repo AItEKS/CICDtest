@@ -113,7 +113,7 @@ languages = {
             "upload-data": "Upload data",
         },
         "graph-site-map": {
-            "title": "Sites Map",
+            "title": "Sites Pap",
         },
         "projection-radio": {
             "mercator": "Mercator",
